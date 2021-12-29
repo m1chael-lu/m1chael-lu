@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Lu
 - 👀 I’m interested in social impact AI, biotech AI, and finance. 
-- 🌱 I’m currently studying computer science and finance as part of a coordinated dual degree program at the University of Pennsylvania.
+- 🌱 I’m currently studying computer science and finance at the University of Pennsylvania.
 - 💞️ I’m looking to collaborate on AI/Finance/Business Strategy/Anything in the world.  
 - 📫 How to reach me 
 
