@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">Motivated developer from Mississippi</h3>
 
-- 🔭 I’m currently **studying Computer Science and Finance at the University of Pennsylvania for the M&T Program**
+- 🔭 I’m currently **studying Computer Science and Finance at the University of Pennsylvania as part of the M&T Program**
 
 - 🌱 I’m currently learning **MongoDB, Relational Database Design, Algorithmic Trading Tools**
 
