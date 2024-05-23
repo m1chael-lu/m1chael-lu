@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Motivated developer from Mississippi</h3>
+<h3 align="center">Motivated Developer from Mississippi</h3>
 
 - 🔭 I’m currently **studying Computer Science and Finance at the University of Pennsylvania as part of the M&T Program**
 
-- 🌱 I’m currently learning **MongoDB, Relational Database Design, Algorithmic Trading Tools**
+- 🌱 I’m currently learning **C++, Concurrency, Distributed Computing in the Trading Space**
 
 - 👯 I’m looking to collaborate on **health / finance based applications of CS/ML/Data Analysis**
 
